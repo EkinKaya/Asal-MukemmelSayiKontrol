@@ -1,0 +1,10 @@
+C:\Users\ekink\source\repos\nesne ödevi\nesne ödevi\bin\Debug\nesne ödevi.exe.config
+C:\Users\ekink\source\repos\nesne ödevi\nesne ödevi\bin\Debug\nesne ödevi.exe
+C:\Users\ekink\source\repos\nesne ödevi\nesne ödevi\bin\Debug\nesne ödevi.pdb
+C:\Users\ekink\source\repos\nesne ödevi\nesne ödevi\obj\Debug\nesne ödevi.csproj.AssemblyReference.cache
+C:\Users\ekink\source\repos\nesne ödevi\nesne ödevi\obj\Debug\nesne_ödevi.Form1.resources
+C:\Users\ekink\source\repos\nesne ödevi\nesne ödevi\obj\Debug\nesne_ödevi.Properties.Resources.resources
+C:\Users\ekink\source\repos\nesne ödevi\nesne ödevi\obj\Debug\nesne ödevi.csproj.GenerateResource.cache
+C:\Users\ekink\source\repos\nesne ödevi\nesne ödevi\obj\Debug\nesne ödevi.csproj.CoreCompileInputs.cache
+C:\Users\ekink\source\repos\nesne ödevi\nesne ödevi\obj\Debug\nesne ödevi.exe
+C:\Users\ekink\source\repos\nesne ödevi\nesne ödevi\obj\Debug\nesne ödevi.pdb
